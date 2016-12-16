@@ -22,7 +22,7 @@ namespace FCM_Server_Side
 
 
 
-        public AndroidFCMPushNotificationStatus SendNotification(string deviceId, int RequestID)
+        public AndroidFCMPushNotificationStatus SendNotification(string deviceId, int RequestID)//send notification
         {
             AndroidFCMPushNotificationStatus result = new AndroidFCMPushNotificationStatus();
             string serverApiKey = Constanse.AppKey;  //Key from Firebase Cloud Message
