@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FCM_Server_Side {
+namespace FCMServerSide {
     
     
     public partial class FcmTest {

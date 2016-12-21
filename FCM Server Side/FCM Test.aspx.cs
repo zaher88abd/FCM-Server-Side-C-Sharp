@@ -4,7 +4,7 @@ using System.Net;
 using System.Text;
 using System.Web.Script.Serialization;
 
-namespace FCM_Server_Side
+namespace FCMServerSide
 {
     public partial class FcmTest : System.Web.UI.Page
     {

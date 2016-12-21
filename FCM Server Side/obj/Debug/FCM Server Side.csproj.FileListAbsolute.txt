@@ -70,11 +70,11 @@ C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\roslyn\Syste
 C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\roslyn\vbc.exe
 C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\roslyn\VBCSCompiler.exe
 C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\FCM Server Side.dll.config
-C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\FCM Server Side.dll
-C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\FCM Server Side.pdb
 C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\obj\Debug\FCM Server Side.csprojResolveAssemblyReference.cache
-C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\obj\Debug\FCM Server Side.dll
-C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\obj\Debug\FCM Server Side.pdb
+C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\FCMServerSide.dll.config
+C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\FCMServerSide.dll
+C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\bin\FCMServerSide.pdb
+C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\obj\Debug\FCMServerSide.dll
+C:\Users\Zaher\Documents\GitHub\FCM Server Side\FCM Server Side\obj\Debug\FCMServerSide.pdb
